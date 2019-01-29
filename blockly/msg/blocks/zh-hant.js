@@ -1,0 +1,15 @@
+Blockly.Msg.WEBDUINO_PIN_BIT = "(Bit) 腳位";
+Blockly.Msg.WEBDUINO_PIN_ON = "於";
+Blockly.Msg.WEBDUINO_PIN_READ = "讀取";
+Blockly.Msg.WEBDUINO_PIN_WRITE = "輸出";
+Blockly.Msg.WEBDUINO_PIN_VALUE = "數值";
+Blockly.Msg.WEBDUINO_PIN_SET = "設定";
+Blockly.Msg.WEBDUINO_PIN_MODE = "模式";
+Blockly.Msg.WEBDUINO_PIN_DIN = "數位輸入";
+Blockly.Msg.WEBDUINO_PIN_DOUT = "數位輸出";
+Blockly.Msg.WEBDUINO_PIN_AIN = "類比輸入";
+Blockly.Msg.WEBDUINO_PIN_AOUT = "類比輸出 (PWM)";
+Blockly.Msg.WEBDUINO_BOARD_WIFI = "Wi-Fi";
+Blockly.Msg.WEBDUINO_BOARD_SERIAL = "序列埠";
+Blockly.Msg.WEBDUINO_BOARD_BLUETOOTH = "藍芽";
+Blockly.Msg.WEBDUINO_BOARD_WEBSOCKET = "WebSocket";

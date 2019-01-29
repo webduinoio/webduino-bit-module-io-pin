@@ -1,0 +1,27 @@
+{
+  "name": "webduino-bit-module-io-pin",
+  "version": "1.0.0",
+  "description": "🔌 Block Module for I/O pin of Webduino:bit",
+  "main": "BitIOPin-blockly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webduinoio/webduino-bit-module-io-pin.git"
+  },
+  "keywords": [
+    "arduino",
+    "webduino",
+    "pin"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webduinoio/webduino-bit-module-io-pin/issues"
+  },
+  "homepage": "https://webduino.io",
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

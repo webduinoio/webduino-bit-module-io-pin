@@ -1,0 +1,39 @@
+<category id="catPin_bit" index="1" tags="bit">
+  <block type="variables_set">
+    <field name="VAR">pin</field>
+    <value name="VALUE">
+      <block type="pin_get_bit">
+        <value name="pin">
+          <block type="pin_num_bit">
+            <field name="pin_">10</field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="variables_set">
+    <field name="VAR">pin</field>
+    <value name="VALUE">
+      <block type="pin_get_bit">
+        <value name="pin">
+          <block type="pin_board_bit">
+            <value name="pin_">
+              <block type="pin_num_bit">
+                <field name="pin_">10</field>
+              </block>
+            </value>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="pin_set_mode"></block>
+  <block type="pin_read"></block>
+  <block type="pin_write">
+    <value name="value_">
+      <block type="math_number">
+        <field name="NUM">0</field>
+      </block>
+    </value>
+  </block>
+</category>
